@@ -1,3 +1,3 @@
 console.error("HALP!")
-console.log("Dong")
+console.log("D")
 console.warn("Riot!")
